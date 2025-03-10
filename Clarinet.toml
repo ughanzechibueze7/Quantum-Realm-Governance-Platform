@@ -5,10 +5,6 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
-[contracts.quantum-field-adjustment-consensus]
-path = 'contracts/quantum-field-adjustment-consensus.clar'
-clarity_version = 2
-epoch = 2.5
 
 [contracts.quantum-fluctuation-regulation]
 path = 'contracts/quantum-fluctuation-regulation.clar'

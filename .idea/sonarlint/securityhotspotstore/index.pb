@@ -11,3 +11,7 @@ a
 .tests/wave-particle-duality-management.test.ts,1/2/12b792c119caafe2366a3f1f931a840870d5002f
 _
 /contracts/wave-particle-duality-management.clar,2/7/278a3be835ad2308d694c2e2c8878e65ae85b574
+\
+,tests/quantum-fluctuation-regulation.test.ts,e/e/eeea1bfbdd468ec567a06c6f3a1f3fbe350613d3
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
